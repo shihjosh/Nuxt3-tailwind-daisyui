@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+使用 [Tailwind css](https://tailwindcss.com)
+
+使用 [daisyui css](https://daisyui.com)
+
 ## Setup
 
 Make sure to install the dependencies:
