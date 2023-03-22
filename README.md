@@ -46,3 +46,5 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+[Nuxt 3 如何使用](https://ithelp.ithome.com.tw/articles/10294705)
