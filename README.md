@@ -44,6 +44,12 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
+## Build docker
+
+```bash
+docker-compose up -d --build
+```
+
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
